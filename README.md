@@ -1,3 +1,21 @@
+<div align="center">
+
+<h1>✨ Moinak Ghosh ✨</h1>
+
+<h3>
+B.Tech Computer Science & Engineering Student <br>
+Artificial Intelligence • Machine Learning • Full-Stack Development
+</h3>
+
+<p>
+Turning ideas into <b>intelligent, impactful digital experiences</b><br>
+through clean code and creative thinking.
+</p>
+
+</div>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building small projects to strengthen my fundamentals in programming, web development, and problem-solving.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects, open-source contributions, and learning-based team projects.<br><br>🤝 I’m looking for help with<br>Improving coding skills, understanding best practices, and getting guidance on real-world project development.<br><br>🌱 I’m currently learning<br>Core programming concepts, data structures, web technologies, and basic machine learning concepts.<br><br>💬 Ask me about<br>My learning journey, beginner projects, or how I approach understanding new technical concepts.<br><br>⚡ Fun fact<br>I enjoy learning by building things step by step and turning concepts into practical projects.
 
