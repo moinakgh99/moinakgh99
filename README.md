@@ -61,7 +61,7 @@ through clean code and creative thinking.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <table align="center">
 <tr>
