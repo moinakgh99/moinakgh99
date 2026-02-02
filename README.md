@@ -2,10 +2,16 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=09F7F7&center=true&vCenter=true&width=800&lines=Hey,+I+am+Moinak+Ghosh,+Welcome+to+my+Profile+!!"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=5EF1FF&center=true&vCenter=true&width=900&lines=Hey,+I+am+Moinak+Ghosh,+Welcome+to+my+Profile+!!"
     alt="Typing SVG"
   />
 </p>
+
+
+
+
+
+
 
 <h2 align="center">&lt;/Moinak_Ghosh&gt;</h2>
 
