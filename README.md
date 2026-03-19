@@ -7,12 +7,6 @@
   />
 </p>
 
-
-
-
-
-
-
 <h2 align="center">&lt;/Moinak_Ghosh&gt;</h2>
 
 <h3>
@@ -28,10 +22,12 @@ through clean code and creative thinking.
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moinakgh99&label=Visitors&color=ff2f63&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=moinakgh99&label=Visitors&color=ff2f63&style=flat" />
+</p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNrZ2JrMzUweHRxMTgwZ3N6eGxremhyOXNicXhwemNsMWF6Z3NwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Profile views" />
 </p>
 
----
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building small projects to strengthen my fundamentals in programming, web development, and problem-solving.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects, open-source contributions, and learning-based team projects.<br><br>🤝 I’m looking for help with<br>Improving coding skills, understanding best practices, and getting guidance on real-world project development.<br><br>🌱 I’m currently learning<br>Core programming concepts, data structures, web technologies, and basic machine learning concepts.<br><br>💬 Ask me about<br>My learning journey, beginner projects, or how I approach understanding new technical concepts.<br><br>⚡ Fun fact<br>I enjoy learning by building things step by step and turning concepts into practical projects.
