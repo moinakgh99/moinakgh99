@@ -1,6 +1,10 @@
+<!-- 🌟 TOP GLOW HEADER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=140&section=header&animation=twinkling"/>
+</p>
+
 <div align="center">
 
-<!-- 🔥 PREMIUM GLOW HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=Hey,+I+am+Moinak+Ghosh,+Welcome+to+my+Profile+!!;Frontend+Developer+(React)+!!;Building+Scalable+Web+Applications+!!;Exploring+AI+!!&repeat=true&gradient=00F5FF,7C3AED,00F5FF" />
 
 <br><br>
@@ -21,11 +25,11 @@ through modern frontend development and creative problem solving.
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moinakgh99&label=Visitors&color=00F5FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=moinakgh99&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -56,7 +60,7 @@ Design. Build. Optimize. Scale.
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
 </p>
 
 ---
@@ -89,7 +93,7 @@ Design. Build. Optimize. Scale.
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
 </p>
 
 ---
@@ -123,7 +127,7 @@ Frontend Development • REST APIs • DSA
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
 </p>
 
 ---
@@ -132,17 +136,15 @@ Frontend Development • REST APIs • DSA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" />
+<img src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true" height="160" />
+<br><br>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinakgh99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="140" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
 
 </div>
 
 <!-- 🌟 FINAL GLOW FOOTER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=140&section=footer&animation=twinkling"/>
 </p>
