@@ -140,6 +140,12 @@ Frontend Development • REST APIs • DSA
 
 <br><br>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moinakgh99/moinakgh99/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
 
 </div>
