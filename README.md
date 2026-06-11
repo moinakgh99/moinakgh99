@@ -1,25 +1,25 @@
 <!-- 🌟 TOP GLOW HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=140&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:00F5FF,20:3B82F6,45:7C3AED,70:C026D3,100:FF0080&text=Moinak%20Ghosh&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=⚡%20Frontend%20Developer%20•%20🚀%20Building%20with%20MERN%20•%20🤖%20AI%20Explorer&descAlignY=60&descColor=F8FAFC"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=Hey,+I+am+Moinak+Ghosh,+Welcome+to+my+Profile+!!;Frontend+Developer+(React)+!!;Building+Scalable+Web+Applications+!!;Exploring+AI+!!&repeat=true&gradient=00F5FF,7C3AED,00F5FF" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&lines=Hey,+I+am+Moinak+Ghosh,+Welcome+to+my+Profile+!!;Transforming+Ideas+Into+Digital+Experiences+!!;Crafting+Modern+Frontend+Applications+!!;MERN+Stack+Developer+on+a+Journey+of+Continuous+Learning+!!;Exploring+the+Intersection+of+AI+and+Web+Development+!!;&repeat=true&gradient=00F5FF,7C3AED,00F5FF" />
+
+</div>
+
+<div align="center">
 
 <br><br>
 
-<h2>&lt;/Moinak_Ghosh&gt;</h2>
+<div align="center">
 
-<h3>
-B.Tech Computer Science & Engineering Student <br>
-Artificial Intelligence • Machine Learning • Frontend Development
-</h3>
+<h3>🎓 B.Tech CSE (AI & ML) Student</h3>
 
-<p>
-Turning ideas into <b>intelligent, scalable digital experiences</b><br>
-through modern frontend development and creative problem solving.
-</p>
+<p><em>🚀 Building Scalable Web Experiences & Solving Real-World Problems</em></p>
+
+</div>
 
 </div>
 
@@ -65,36 +65,22 @@ Design. Build. Optimize. Scale.
 
 ---
 
-## 🌐 Connect
+## 🏆 Achievements
 
-<div align="center">
+🥈 Qualified Round 1 & Round 2 of **HackWithInfy 2026**, Infosys' national-level coding competition.
 
-<a href="https://www.linkedin.com/in/moinak-ghosh-mernstack/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/moinakgh99" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ghoshjimoinak@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://moinakghosh.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/moinakk.ghosh_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+🥉 Secured **3rd Position** in **ScholarHat Full Stack Development Webathon**.
 
-</div>
+⭐ **CodeChef 2★ Coder** (Rating: 1427).
 
-<!-- 🌟 GLOW DIVIDER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
-</p>
+📈 **LeetCode Rating: 1412**.
+
+💻 Solved **300+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
+
+🤖 Successfully completed **Infosys Springboard Virtual Internship 6.0 (AI Domain)**.
+
+🎓 Earned certifications in **Google AI Fundamentals**, **Data Analytics**, and **Artificial Intelligence**.
+
 
 ---
 
@@ -132,25 +118,213 @@ Frontend Development • REST APIs • DSA
 
 ---
 
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛡️ SentinelNet
+
+AI-Enabled Network Intrusion Detection System (NIDS)
+
+🔹 Real-Time Threat Detection
+🔹 ML-Based Network Analysis
+🔹 Security-Focused Architecture
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Network Security`
+
+<br>
+
+<a href="https://github.com/moinakgh99/SentinelNet-AI">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sentinelnet-ai.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal Portfolio showcasing projects and achievements.
+
+🔹 Modern UI/UX
+🔹 Fully Responsive
+🔹 Optimized Performance
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Vercel`
+
+<br>
+
+<a href="https://github.com/moinakgh99/My_Portfolio">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://moinakghosh.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌦️ Weathix — Weather Application
+
+Modern weather forecasting application with a clean and responsive user interface.
+
+🔹 Real-Time Weather Updates
+🔹 Location-Based Forecasts
+🔹 Dynamic Weather Conditions & Temperature Data
+🔹 Fully Responsive Modern UI
+
+**Tech Stack**
+
+`React` `JavaScript` `OpenWeather API` `CSS3`
+
+<br>
+
+<a href="https://github.com/moinakgh99/Weathix-Weather-Application">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://weathix-weather-application.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 👗 Durlassa — Women Empowerment Platform
+
+A modern digital platform focused on empowering women through safety, support, and community-driven initiatives.
+
+🔹 Developed Responsive Frontend Interfaces
+🔹 Built Modern & User-Friendly UI Components
+🔹 Focused on Accessibility & User Experience
+🔹 Collaborated Within a Team-Based Development Environment
+
+**My Contribution**
+
+🎨 Frontend Development & UI Implementation
+
+**Tech Stack**
+
+`React` `JavaScript` `HTML5` `CSS3` `Responsive Design`
+
+<br>
+
+<a href="https://github.com/moinakgh99/Durlassa">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://durlassa.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/moinak-ghosh-mernstack/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/moinakgh99" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ghoshjimoinak@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://moinakghosh.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/moinakk.ghosh_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+</div>
+
+<!-- 🌟 GLOW DIVIDER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true" height="180" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinakgh99&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
+
+<br><br>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/moinakgh99/moinakgh99/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Always Learning, Always Building
+
+<br>
+
+<i>“Great software is built through curiosity, consistency, and continuous learning.”</i>
 
 </div>
 
-<!-- 🌟 FINAL GLOW FOOTER -->
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
+</p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=140&section=footer&animation=twinkling"/>
 </p>
