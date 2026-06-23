@@ -269,8 +269,8 @@ A modern digital platform focused on empowering women through safety, support, a
   <img src="https://skillicons.dev/icons?i=vercel" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/moinakk.ghosh_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://discord.com/users/1511385640745308221" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="40" />
 </a>
 
 </div>
@@ -287,17 +287,18 @@ A modern digital platform focused on empowering women through safety, support, a
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br><br>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinakgh99&layout=compact&theme=tokyonight&hide_border=true"/>
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
-
 <br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinakgh99&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 ### 🐍 Contribution Snake
 
