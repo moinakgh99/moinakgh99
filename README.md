@@ -71,9 +71,9 @@ Design. Build. Optimize. Scale.
 
 🥉 Secured **3rd Position** in **ScholarHat Full Stack Development Webathon**.
 
-⭐ **CodeChef 2★ Coder** (Rating: 1427).
+⭐ **CodeChef 2★ Coder** (Rating: 1460).
 
-📈 **LeetCode Rating: 1412**.
+📈 **LeetCode Rating: 1550**.
 
 💻 Solved **300+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
 
@@ -274,6 +274,38 @@ A modern digital platform focused on empowering women through safety, support, a
 </a>
 
 </div>
+
+<!-- 🌟 GLOW DIVIDER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2"/>
+</p>
+
+---
+
+## 💻 My Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Moinak100/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/moinakghosh100" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef" height="40" alt="CodeChef"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/moinakgh" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" alt="GeeksforGeeks"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codolio.com/profile/Arigato_Kaizan" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/source-code.png" height="40" alt="Codolio"/>
+</a>
+
+</p>
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
