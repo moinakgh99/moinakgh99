@@ -285,6 +285,10 @@ A modern digital platform focused on empowering women through safety, support, a
 ## 💻 My Coding Profiles
 
 <p align="center">
+<a href="https://codolio.com/profile/Arigato_Kaizan" target="_blank">
+  <img src="./assets/icons/codolio.webp" height="40" alt="Codolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Moinak100/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
@@ -298,11 +302,6 @@ A modern digital platform focused on empowering women through safety, support, a
 
 <a href="https://www.geeksforgeeks.org/profile/moinakgh" target="_blank">
   <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" alt="GeeksforGeeks"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://codolio.com/profile/Arigato_Kaizan" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/source-code.png" height="40" alt="Codolio"/>
 </a>
 
 </p>
