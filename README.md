@@ -71,11 +71,11 @@ Design. Build. Optimize. Scale.
 
 🥉 Secured **3rd Position** in **ScholarHat Full Stack Development Webathon**.
 
-⭐ **CodeChef 2★ Coder** (Rating: 1460).
+⭐ **CodeChef 2★ Coder** (Rating: 1520).
 
-📈 **LeetCode Rating: 1550**.
+📈 **LeetCode Rating: 1573**.
 
-💻 Solved **300+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
+💻 Solved **350+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
 
 🤖 Successfully completed **Infosys Springboard Virtual Internship 6.0 (AI Domain)**.
 
