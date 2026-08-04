@@ -317,7 +317,7 @@ A modern digital platform focused on empowering women through safety, support, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true"/>](https://github-stats-extended.vercel.app/api?username=moinakgh99&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 <br><br>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true"/>
