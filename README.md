@@ -317,16 +317,13 @@ A modern digital platform focused on empowering women through safety, support, a
 
 <div align="center">
 
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moinakgh99&show_icons=true&theme=tokyonight&hide_border=true"/>](https://github-stats-extended.vercel.app/api?username=moinakgh99&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=moinakgh99&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=moinakgh99&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 <br><br>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=moinakgh99&theme=tokyonight&hide_border=true"/>
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinakgh99&layout=compact&theme=tokyonight&hide_border=true"/>
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinakgh99&theme=tokyonight" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=moinakgh99&layout=compact&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=moinakgh99&layout=compact&langs_count=20&theme=tokyonight)
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinakgh99&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
