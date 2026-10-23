@@ -71,11 +71,11 @@ Design. Build. Optimize. Scale.
 
 🥉 Secured **3rd Position** in **ScholarHat Full Stack Development Webathon**.
 
-⭐ **CodeChef 2★ Coder** (Rating: 1520).
+⭐ **CodeChef 2★ Coder** (Rating: 1409).
 
-📈 **LeetCode Rating: 1573**.
+📈 **LeetCode Rating: 1622**.
 
-💻 Solved **350+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
+💻 Solved **500+ DSA Problems** across LeetCode, CodeChef, and GeeksforGeeks.
 
 🤖 Successfully completed **Infosys Springboard Virtual Internship 6.0 (AI Domain)**.
 
@@ -251,29 +251,17 @@ A modern digital platform focused on empowering women through safety, support, a
 
 ## 🌐 Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moinak-ghosh-mernstack/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/moinakgh99" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ghoshjimoinak@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://moinakghosh.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/1511385640745308221" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/moinak-ghosh-mernstack/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/moinakgh99" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ghoshjimoinak@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://moinakghosh.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1511385640745308221" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/></a>
+</p>
 
 <!-- 🌟 GLOW DIVIDER -->
 <p align="center">
@@ -284,25 +272,22 @@ A modern digital platform focused on empowering women through safety, support, a
 
 ## 💻 My Coding Profiles
 
-<p align="center">
-<a href="https://codolio.com/profile/Arigato_Kaizan" target="_blank">
-  <img src="./assets/icons/codolio.webp" height="40" alt="Codolio"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Moinak100/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/moinakghosh100" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef" height="40" alt="CodeChef"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/profile/moinakgh" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" alt="GeeksforGeeks"/>
-</a>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <a href="https://leetcode.com/u/Moinak100/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="32" alt="LeetCode"/><br><sub><b>LeetCode</b></sub></a>
+</td>
+<td align="center" width="25%">
+  <a href="https://www.codechef.com/users/moinakghosh100" target="_blank"><img src="https://cdn.simpleicons.org/codechef" height="32" alt="CodeChef"/><br><sub><b>CodeChef</b></sub></a>
+</td>
+<td align="center" width="25%">
+  <a href="https://www.geeksforgeeks.org/profile/moinakgh" target="_blank"><img src="https://cdn.simpleicons.org/geeksforgeeks" height="32" alt="GeeksforGeeks"/><br><sub><b>GeeksforGeeks</b></sub></a>
+</td>
+<td align="center" width="25%">
+  <a href="https://codolio.com/profile/Arigato_Kaizan" target="_blank"><img src="./assets/icons/codolio.webp" height="32" alt="Codolio"/><br><sub><b>Codolio</b></sub></a>
+</td>
+</tr>
+</table>
 
 </p>
 
